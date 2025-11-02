@@ -1,3 +1,5 @@
+cd $1
+
 rm -rf obj
 rm *.f*
 rm *.nek5000
