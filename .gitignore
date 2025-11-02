@@ -4,3 +4,7 @@
 **/*.nek5000
 **/*.f0*
 **/*.fld*
+**/.state
+**/SESSION.NAME
+**/nek5000
+**/makefile
